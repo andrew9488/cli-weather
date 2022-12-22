@@ -1,0 +1,21 @@
+{
+  "name": "cli_weather",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Andrew Pashkevich",
+  "license": "ISC",
+  "homepage": "https://github.com/andrew9488",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew9488"
+  }
+}
